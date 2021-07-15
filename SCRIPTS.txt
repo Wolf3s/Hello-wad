@@ -1,0 +1,10 @@
+//scripts por wolf3s
+#include "zcommon.acs"
+
+script 1 OPEN
+{
+	Delay(35);
+	//isso aqui vai mostrar uma mensagem na tela
+	Print(s:"Ola mundo");
+}
+
